@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B33B2B76-16AE-4441-B96F-60DA72045315</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ToDos</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B064278226E8B4A10A4DD11C8EF845B75E217149</key>
+		<string>https://github.com/ahsyuyu/iOS_todos.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ToDos/ToDos.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B064278226E8B4A10A4DD11C8EF845B75E217149</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ahsyuyu/iOS_todos.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B064278226E8B4A10A4DD11C8EF845B75E217149</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B064278226E8B4A10A4DD11C8EF845B75E217149</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_todos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
